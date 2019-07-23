@@ -5,10 +5,9 @@ def map(source_array)
   while i < source_array.length do
     newArray.push(source_array[i] * -1)
   end
-  return 
 end
 
 map(source_array) do
   |innards|
-  new_array
+  return new_array
 end
