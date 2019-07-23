@@ -4,4 +4,7 @@ def map(array)
   return 
 end
 
-map()
+map(newArray) do
+  |innards|
+  
+end
