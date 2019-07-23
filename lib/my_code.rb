@@ -1,5 +1,5 @@
 # Your Code Here
-def map(array)
+def map(source_array)
   newArray = []
   return 
 end
