@@ -2,7 +2,9 @@
 def map(source_array)
   newArray = []
   i = 0 
-  while i < 
+  while i < source_array.length do
+    
+  end
   return 
 end
 
