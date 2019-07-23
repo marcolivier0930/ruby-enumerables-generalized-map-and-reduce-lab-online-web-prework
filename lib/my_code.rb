@@ -8,7 +8,7 @@ def map(source_array)
   yield
 end
 
-map(source_array) do
+map() do
   |innards|
   return new_array
 end
